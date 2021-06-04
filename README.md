@@ -21,3 +21,11 @@ Default configuration:
 ```
 
 - `BlockedItemActions` -- List of item actions to block. No players will be able to perform these item actions, unless they have the `blockitemactions.bypassall` permission.
+
+## Localization
+
+```json
+{
+  "Error.NoPermission": "You don't have permission to do that."
+}
+```
